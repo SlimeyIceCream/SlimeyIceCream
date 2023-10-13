@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Tran rights! I have a bunch of goofy repositories on my profile.<br>
+Tran rights!<br> I have a bunch of goofy repositories on my profile.<br>
 I know:
 - HTML
 - Rust(learning)
