@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Tran rights! I have a bunch of goofy repositories on my profile.
+I know:
+HTML
+Rust(learning)
+Javascript(Learning)
+
 <!--
 **SlimeyIceCream/SlimeyIceCream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
