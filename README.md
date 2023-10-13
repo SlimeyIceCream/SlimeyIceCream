@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Tran rights! I have a bunch of goofy repositories on my profile.
+Tran rights! I have a bunch of goofy repositories on my profile.<br>
 I know:<br>
-HTML
-Rust(learning)
-Javascript(Learning)
+HTML<br>
+Rust(learning)<br>
+Javascript(Learning)<br>
 
 <!--
 **SlimeyIceCream/SlimeyIceCream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
