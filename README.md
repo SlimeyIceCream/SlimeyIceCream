@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Tran rights! I have a bunch of goofy repositories on my profile.
-I know:
+I know:<br>
 HTML
 Rust(learning)
 Javascript(Learning)
