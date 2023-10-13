@@ -6,6 +6,10 @@ I know:
 - Rust(learning)
 - Javascript(Learning)
 
+<br>
+<b>Looking for love?:</b><br>
+https://www.femboyscout.love/
+
 <!--
 **SlimeyIceCream/SlimeyIceCream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
