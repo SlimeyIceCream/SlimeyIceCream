@@ -4,7 +4,7 @@ Tran rights!<br> I have a bunch of goofy repositories on my profile.<br>
 I know:
 - HTML
 - Rust(learning)
-- Javascript(Learning)
+- Javas(Learning)
 
 <br>
 <b>Looking for love?:</b><br>
